@@ -1,0 +1,28 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"CoffeeComplete Plus (Autocompletion)",
+		"ColorPicker",
+		"Dayle Rees Color Schemes",
+		"DocBlockr",
+		"EditorConfig",
+		"ERB Autocomplete",
+		"Git",
+		"GitGutter",
+		"LiveReload",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-gjslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"Theme - Phoenix"
+	]
+}
