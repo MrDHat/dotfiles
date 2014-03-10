@@ -1,10 +1,14 @@
 {
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"Alignment",
 		"AngularJS",
+		"AngularJS Snippets",
 		"AutoFileName",
 		"Autoprefixer",
+		"Backbone.js",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Clipboard Manager",
 		"CoffeeComplete Plus (Autocompletion)",
@@ -12,6 +16,7 @@
 		"Dayle Rees Color Schemes",
 		"DocBlockr",
 		"EditorConfig",
+		"EJS",
 		"ERB Autocomplete",
 		"Git",
 		"GitGutter",

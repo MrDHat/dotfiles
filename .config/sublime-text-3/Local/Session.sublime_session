@@ -1,19 +1,33 @@
 {
 	"folder_history":
 	[
-		"/home/mrdhat/opt/Shopify",
+		"/home/mrdhat/opt/random.py",
+		"/home/mrdhat/opt/Weavedin",
+		"/home/mrdhat/opt",
+		"/home/mrdhat/Downloads/rails-backbone-tutorial-master",
+		"/home/mrdhat/opt/mojojojo",
+		"/home/mrdhat/opt/AskPort",
+		"/home/mrdhat/opt/yarb",
+		"/home/mrdhat/opt/FileBacon",
+		"/home/mrdhat/opt/AskSomething",
 		"/home/mrdhat/opt/Dropbox/Shared with Akshay",
+		"/home/mrdhat/website",
+		"/home/mrdhat/Downloads/website-master",
+		"/home/mrdhat/tmp",
+		"/home/mrdhat/Downloads/AdminPanel-legacy",
+		"/home/mrdhat/opt/Dropbox/TweetSecret",
+		"/home/mrdhat/opt/Shopify",
 		"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website",
 		"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website",
 		"/home/mrdhat/opt/TweetSecret",
 		"/opt/sublime_text/Icon"
 	],
 	"last_version": 3059,
-	"last_window_id": 7,
+	"last_window_id": 16,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 708.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -21,36 +35,440 @@
 				"selected_items":
 				[
 					[
+						"input",
+						"input_str"
+					],
+					[
+						"get",
+						"getMonth  (function)"
+					],
+					[
+						"payme",
+						"paymentIds"
+					],
+					[
+						"disove",
+						"discoveryUrl"
+					],
+					[
+						"calen",
+						"calenderId"
+					],
+					[
+						"SERVICE_",
+						"SERVICE_ACCOUNT_KEY_FILE  (variable)"
+					],
+					[
+						"red",
+						"render"
+					],
+					[
+						"eve",
+						"events"
+					],
+					[
+						"Top",
+						"TopicsNewView"
+					],
+					[
+						"top",
+						"topics"
+					],
+					[
+						"pa",
+						"params"
+					],
+					[
+						"comm",
+						"comments"
+					],
+					[
+						"un",
+						"unprocessable_entity"
+					],
+					[
+						"comme",
+						"comment_params"
+					],
+					[
+						"commen",
+						"comment"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"share",
+						"shareOnFacebook"
+					],
+					[
+						"sha",
+						"shareOnTwitter"
+					],
+					[
+						"shareO",
+						"shareOnFacebok"
+					],
+					[
+						"shareOn",
+						"shareOnTwitter"
+					],
+					[
+						"fac",
+						"facebook"
+					],
+					[
+						"art",
+						"artist"
+					],
+					[
+						"ar",
+						"artist"
+					],
+					[
+						"artis",
+						"artists"
+					],
+					[
+						"ng-h",
+						"ng-href	AngularJS"
+					],
+					[
+						"ng-show",
+						"ng-show=  (attribute)"
+					],
+					[
+						"re",
+						"resourceUrlWhitelist"
+					],
+					[
+						"is",
+						"isSubscribed"
+					],
+					[
+						"show",
+						"showPlayButton"
+					],
+					[
+						"vd",
+						"video"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"v",
+						"vt"
+					],
+					[
+						"relea",
+						"releaseTime"
+					],
+					[
+						"$lo",
+						"$log	AngularJS"
+					],
+					[
+						"$htt",
+						"$httpProvider"
+					],
+					[
+						"$route",
+						"$routeParams	AngularJS"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"contro",
+						"Controller"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"load",
+						"displayLoading"
+					],
+					[
+						"di",
+						"div	Tag"
+					],
+					[
+						"modal",
+						"modalDialog"
+					],
+					[
+						"mo",
+						"modalDialog"
+					],
+					[
+						"dia",
+						"dialogStyle"
+					],
+					[
+						"a",
+						"attrs"
+					],
+					[
+						"e",
+						"element"
+					],
+					[
+						"$roo",
+						"$rootScope	AngularJS(DI)"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"ng-",
+						"ng-cloak	AngularJS"
+					],
+					[
+						"ng-s",
+						"ng-show	AngularJS"
+					],
+					[
+						"des",
+						"destroyUser  (function)"
+					],
+					[
+						"destr",
+						"destroyUser"
+					],
+					[
+						"set",
+						"setUser"
+					],
+					[
+						"ot",
+						"options"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"su",
+						"successful"
+					],
+					[
+						"suc",
+						"success"
+					],
+					[
+						"rep",
+						"response"
+					],
+					[
+						"$loca",
+						"$location	AngularJS"
+					],
+					[
+						"succe",
+						"successful"
+					],
+					[
+						"lo",
+						"loginResponse"
+					],
+					[
+						"log",
+						"loginrespons  (variable)"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"acce",
+						"access_token"
+					],
+					[
+						"twitter",
+						"twitterOAuth"
+					],
+					[
+						"sign",
+						"signupEmail"
+					],
+					[
+						"ng-cl",
+						"ng-click	AngularJS"
+					],
+					[
+						"controll",
+						"controllers"
+					],
+					[
+						"con",
+						"controller	AngularJS"
+					],
+					[
+						"sub",
+						"subscriptionStatus"
+					],
+					[
+						"baa",
+						"background-image:   (property)"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"vide",
+						"video"
+					],
+					[
+						"vid",
+						"video"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"apiU",
+						"apiUrl"
+					],
+					[
+						"$rou",
+						"$routeParams	AngularJS"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"ng-r",
+						"ng-repeat	AngularJS"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"stat",
+						"status  (variable)"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"api",
+						"api_data"
+					],
+					[
+						"UR",
+						"URN"
+					],
+					[
+						"ap",
+						"api_urn"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Conf",
+						"Config"
+					],
+					[
+						"ng-v",
+						"ng-view	AngularJS"
+					],
+					[
+						"$cook",
+						"$cookieStore	AngularJS"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"i",
+						"!important  (value)"
+					],
+					[
+						"ma",
+						"max-width"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"li",
+						"li	Tag"
+					],
+					[
+						"me",
+						"menu_group_class  (variable)"
+					],
+					[
+						"C",
+						"COOKIE"
+					],
+					[
+						"USER_",
+						"USER_TYPE"
+					],
+					[
+						"fa",
+						"fadeIn  (function)"
+					],
+					[
+						"D",
+						"DOM"
+					],
+					[
+						"USER",
+						"USER_NAME"
+					],
+					[
+						"U",
+						"USER_TYPE  (variable)"
+					],
+					[
+						"form",
+						"form_id"
+					],
+					[
+						"inp",
+						"input_api_urn"
+					],
+					[
+						"api_",
+						"api_url"
+					],
+					[
+						"valid",
+						"validates"
+					],
+					[
+						"mail",
+						"mail_content"
+					],
+					[
 						"fo",
 						"font-size"
 					],
 					[
-						"marg",
-						"margin-top"
-					],
-					[
 						"bo",
 						"border-bottom"
-					],
-					[
-						"mar",
-						"margin-right"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"li",
-						"logo-white.png	w:337 h:42"
-					],
-					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"pa",
-						"padding-right"
 					],
 					[
 						"pad",
@@ -59,10 +477,6 @@
 					[
 						"c",
 						"center"
-					],
-					[
-						"dia",
-						"dialog_content"
 					],
 					[
 						"CO",
@@ -89,20 +503,12 @@
 						"checkbox-unchecked.png	w:512 h:512"
 					],
 					[
-						"i",
-						"imgs/"
-					],
-					[
 						"bac",
 						"background-image"
 					],
 					[
 						"back",
 						"background-color"
-					],
-					[
-						"re",
-						"removeClass  (function)"
 					],
 					[
 						"fon",
@@ -119,10 +525,6 @@
 					[
 						"for",
 						"form_submit_button"
-					],
-					[
-						"form",
-						"form_content"
 					],
 					[
 						"ke",
@@ -143,293 +545,21 @@
 					[
 						"text",
 						"text-decoration"
-					],
-					[
-						"bor",
-						"border-top"
-					],
-					[
-						"co",
-						"console"
-					],
-					[
-						"comm",
-						"comment_box_height"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"commen",
-						"comment_form_id"
-					],
-					[
-						"he",
-						"height  (function)"
-					],
-					[
-						"cl",
-						"click  (function)"
-					],
-					[
-						"red",
-						"redirect_param"
-					],
-					[
-						"get",
-						"getURLParameters"
-					],
-					[
-						"clo",
-						"close_button"
-					],
-					[
-						"to",
-						"toggleDialog"
-					],
-					[
-						"Login",
-						"LoginUsingEmail"
-					],
-					[
-						"_lo",
-						"_loginUsingTwitter"
-					],
-					[
-						"o",
-						"oauth_twitter"
-					],
-					[
-						"lo",
-						"log"
-					],
-					[
-						"tw",
-						"twitter"
-					],
-					[
-						"_",
-						"_loginUsingEmail"
-					],
-					[
-						"t",
-						"type"
-					],
-					[
-						"log",
-						"loginUsingEmail"
-					],
-					[
-						"logi",
-						"LoginUsingEmail"
-					],
-					[
-						"input_api_u",
-						"input_api_url"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"win",
-						"window_height"
-					],
-					[
-						"wind",
-						"window"
-					],
-					[
-						"mr",
-						"margin-bottom"
-					],
-					[
-						"backgr",
-						"background-size"
-					],
-					[
-						"windo",
-						"window_height"
-					],
-					[
-						"parse",
-						"parseInt  (function)"
-					],
-					[
-						"cop",
-						"copyright_left_new"
-					],
-					[
-						"copy",
-						"copyright_bottom"
-					],
-					[
-						"footer",
-						"footer_height"
-					],
-					[
-						"con",
-						"container"
-					],
-					[
-						"hi",
-						"hidden"
-					],
-					[
-						"min",
-						"min-width"
-					],
-					[
-						"background-im",
-						"background-image:   (property)"
-					],
-					[
-						"background-c",
-						"background-color:   (property)"
-					],
-					[
-						"te",
-						"text-align"
-					],
-					[
-						"si",
-						"sign-in-twitter.png	w:169 h:26"
-					],
-					[
-						"background",
-						"background-image"
-					],
-					[
-						"tabl",
-						"table-row"
-					],
-					[
-						"ta",
-						"table"
-					],
-					[
-						"v",
-						"vertical-align"
-					],
-					[
-						"pla",
-						"play_button_z"
-					],
-					[
-						"video",
-						"video_frame"
-					],
-					[
-						"ap",
-						"append"
-					],
-					[
-						"thum",
-						"thumb-placeholder"
-					],
-					[
-						"thu",
-						"thumbnail_details"
-					],
-					[
-						"vide",
-						"video_posts_html"
-					],
-					[
-						"po",
-						"post_html"
-					],
-					[
-						"call",
-						"calling_element"
-					],
-					[
-						"thi",
-						"thisObj"
-					],
-					[
-						"if",
-						"if	if"
-					],
-					[
-						"ret",
-						"return"
-					],
-					[
-						"prot",
-						"prototype  (variable)"
-					],
-					[
-						"func",
-						"function"
-					],
-					[
-						"err",
-						"err_msg"
-					],
-					[
-						"api",
-						"api_urn"
-					],
-					[
-						"API",
-						"API_URN"
-					],
-					[
-						"curso",
-						"cursor:   (property)"
-					],
-					[
-						"di",
-						"div	Tag"
-					],
-					[
-						"styl",
-						"style=  (attribute)"
-					],
-					[
-						"table-",
-						"table-row"
-					],
-					[
-						"table",
-						"table-caption"
-					],
-					[
-						"tal",
-						"table-row"
-					],
-					[
-						"tex",
-						"text-align"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 309.0,
 				"selected_items":
 				[
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
 						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -437,11 +567,15 @@
 						"Package Control: Install Package"
 					],
 					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
 						"git",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 588.0
+				"width": 357.0
 			},
 			"console":
 			{
@@ -462,87 +596,134 @@
 			},
 			"file_history":
 			[
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/js/common/config.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/signup-email.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/signup.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_artist.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_artist_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single-video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single-video_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single_video_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single_video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/style-intro.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/style.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/js/common/server_api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/#website-unused/Intro v1/intro-v1.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/#website-unused/Intro v1/style-intro-v1.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/Production/www/style.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/intro.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/config.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/user.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/index.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/style.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/globals.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/artist.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/API Usage.txt",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_artist.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/style-intro.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/intro-v1.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/style-intro-v1.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/intro.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/#not in use#/dialog-box.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_faq.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/config.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/intro.html",
-				"/home/mrdhat/Downloads/35-share-buttons/35-share-buttons/css/style.css",
-				"/home/mrdhat/Downloads/35-share-buttons/35-share-buttons/index.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/lib/jquery.autoresize.js",
+				"/home/mrdhat/opt/mojojojo/files/key.pem",
+				"/home/mrdhat/opt/mojojojo/node_modules/googleapis/lib/googleapis.js",
+				"/home/mrdhat/opt/mojojojo/lib/gCalendar.js",
+				"/home/mrdhat/opt/mojojojo/web.js",
+				"/home/mrdhat/opt/mojojojo/node_modules/googleapis/lib/auth/oauth2client.js",
+				"/home/mrdhat/opt/mojojojo/package.json",
+				"/home/mrdhat/opt/mojojojo/lib/auth.js",
+				"/home/mrdhat/opt/AskPort/config/application.rb",
+				"/home/mrdhat/opt/AskPort/config/environments/development.rb",
+				"/home/mrdhat/opt/AskPort/Gemfile",
+				"/home/mrdhat/opt/AskPort/config/routes.rb",
+				"/home/mrdhat/opt/AskSomething/config/application.rb",
+				"/home/mrdhat/opt/AskSomething/config/mongoid.yml",
+				"/home/mrdhat/opt/AskSomething/app/views/topics/index.html.erb",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/index.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/controllers/topics_controller.rb",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/show.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/show_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/edit.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/edit_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/new.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/new_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/topic.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/topic_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/index_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/routers/topics_router.js.coffee",
+				"/home/mrdhat/opt/AskSomething/config/environments/development.rb",
+				"/home/mrdhat/opt/AskSomething/Gemfile",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/models/topic.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/views/layouts/application.html.erb",
+				"/home/mrdhat/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/mrdhat/opt/AskSomething/sh",
+				"/home/mrdhat/opt/AskSomething/app/controllers/comments_controller.rb",
+				"/home/mrdhat/opt/AskSomething/app/models/comment.rb",
+				"/home/mrdhat/opt/AskSomething/app/models/topic.rb",
+				"/home/mrdhat/opt/AskSomething/config/routes.rb",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/video.js",
 				"/home/mrdhat/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/Social Share API.txt",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/oauth-facebook-js.htm",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/social_login.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/login.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/main.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/signup-email.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/single-video.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/media.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/artist.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_single-video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_artist_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/signup.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/signup-email.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/single_video.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/signup_email.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/single_video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_single_video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_single_video_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/server_api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/unused stuff/full_height.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/index-new.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/server_api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/artist.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/media.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/globals.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/text",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/functions.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/user.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/api_calls.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/server_api.js",
-				"/home/mrdhat/opt/TweetSecret/media.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/untitled",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_single_video.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/functions.js",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/style.css",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_artist_state-no-login.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_about.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_artist.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/artist.php",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_sample-video.mp4",
-				"/media/mrdhat/B6F3-070B/Backup/opt/public_html/info.php",
-				"/opt/sublime_text/changelog.txt"
+				"/home/mrdhat/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/artist.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/API Usage.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/web_views/view_index.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/auth.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/social.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/logout.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/video.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/subscriptions.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/app.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/logout.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/signup.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/main.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/login.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/artist.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/index.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/share.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/artist.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/media.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/subscriptions.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/video.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/subscriptions.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/Output Code.txt",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/specific/media.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/intro.html",
+				"/home/mrdhat/Downloads/website-master/_misc/www/test_dita_videos_list.html",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/intro.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/fb.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/api-test/oauth-facebook-js.htm",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/api-test/login.htm",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/styles/main.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/404.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/directives/modalDialog.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/modalDialog.html",
+				"/home/mrdhat/Downloads/website-master/_static/www/x_single-video.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/gif-load",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/globals.js",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/login.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/main.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/README.md",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/terms.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/privacy.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/about.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/faq.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/signup.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/auth.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/vendor/angular/angular-cookie.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/.jshintrc",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/signup.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/login.js",
+				"/home/mrdhat/API Usage.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/vendor/angular/angular-cookies.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/API Outpot json.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/test.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/factories/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/main.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/services/api.js",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/api.js",
+				"/home/mrdhat/tmp/app/styles/main.css",
+				"/home/mrdhat/Downloads/website-master/_static/www/x_artist.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/main.html",
+				"/home/mrdhat/tmp/app/scripts/app.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/Production/www/style.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/git-hooks/README.md",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/git-hooks/pre-commit.sh",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/.editorconfig",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/alsksa.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/www/artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/www/video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/js_artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/js_single_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/x_artist_state-no-login.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/js/artist.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/note.txt",
+				"/home/mrdhat/Downloads/AdminPanel-legacy/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/controllers/user.js"
 			],
 			"find":
 			{
@@ -554,6 +735,10 @@
 				"where_history":
 				[
 					"",
+					"AksSomething/app",
+					"",
+					"TweetSecret/website/www",
+					"",
 					"*.html",
 					""
 				]
@@ -563,6 +748,101 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Post",
+					"calender",
+					"gapi",
+					"\"",
+					"Blog",
+					"post",
+					"Blog",
+					"post",
+					"load",
+					"post",
+					"shareFacebook",
+					"shareOnFacebok",
+					"comment",
+					".replace",
+					".replace()",
+					"log",
+					"logout",
+					"subscrip",
+					"nh-hide",
+					"nh-hode",
+					"ng-hide",
+					"ng-show",
+					"ng-hide",
+					"ng-show",
+					"showVi",
+					"showVideo",
+					"id",
+					"ng-",
+					"ras",
+					"rele",
+					"});\n",
+					".logo-te",
+					".logo",
+					".logo-text",
+					">\n",
+					"#footer",
+					"fonts",
+					"imgs",
+					"loginStatus",
+					"subscriptionStatus",
+					"response.ss",
+					".footer",
+					"#page .footer",
+					"footer",
+					"POST",
+					"register",
+					"id",
+					"Api.post",
+					"register'",
+					"register",
+					"regis",
+					"login",
+					"user",
+					"config",
+					"Api.request",
+					"/image",
+					"../images",
+					"./",
+					"imgs",
+					"factories",
+					"services",
+					"name",
+					"intro-logo",
+					"btn",
+					"todoSt",
+					"data",
+					"color",
+					"*/\n",
+					"font",
+					"body",
+					"logo",
+					"{\n",
+					"  \n",
+					"\"",
+					"USER_NAME",
+					"setLo",
+					"\"",
+					"'",
+					"},\n",
+					"br/",
+					"h3",
+					"@",
+					"h2",
+					"'",
+					"mai",
+					"mail",
+					"mailto",
+					"founda",
+					"type",
+					"Doc",
+					"gem 'devise', '~> 3.0.0.rc'",
+					".replace('\\\"', '\"')",
+					"strip",
+					"\"",
+					"from",
 					"\"",
 					"apple",
 					"close",
@@ -595,102 +875,7 @@
 					"#dialog .inner",
 					".inner",
 					".ineer",
-					".neer",
-					"!import",
-					"input",
-					".social",
-					"#page .con",
-					"#dialog-wrapper.content",
-					".content",
-					"#dialog2",
-					"400px",
-					".red",
-					".inner",
-					".con",
-					"5",
-					"*/\n",
-					"socia",
-					".facebook",
-					".social-wrap",
-					"comment",
-					".",
-					"Active",
-					"close-",
-					".faceb",
-					"red ",
-					"red",
-					".dialog",
-					".twitter",
-					".btn",
-					"social",
-					".btn",
-					"count",
-					"display: inline",
-					"social_login.js",
-					"icons",
-					"<input",
-					".txtbox",
-					".txt",
-					"comment_box_height",
-					"translate_tabs_to_spaces",
-					"true",
-					"Config",
-					"LoginUsingEmail",
-					"API.request",
-					"gradient",
-					"Config",
-					"play-button",
-					"video-frame",
-					"content",
-					"class=\"content\"",
-					"posts",
-					"LoginUsingEmail",
-					"RegisterUsingEmail",
-					"API.request",
-					"server_api.js",
-					"helpers",
-					"Config",
-					"url_identifier",
-					"Config",
-					"html_identifier",
-					"play_button",
-					"posts",
-					"video_player_house",
-					"video_",
-					"intro",
-					".intro",
-					"height",
-					"intro-test",
-					".intro-test",
-					"font-size",
-					"font-s",
-					"-webkit",
-					"app-",
-					"apple",
-					"app",
-					".margin",
-					"footer",
-					".main-",
-					"!important",
-					"!impro",
-					"height",
-					"intro1",
-					".get",
-					"social",
-					"margin-bottom",
-					".intro1",
-					"html",
-					".container",
-					"z-index",
-					"inline",
-					"login",
-					".intro1",
-					"badge",
-					".intro",
-					".m",
-					".main",
-					"artist",
-					"user"
+					".neer"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -698,6 +883,24 @@
 				"regex": false,
 				"replace_history":
 				[
+					"calendar",
+					"'",
+					"topic",
+					"/images",
+					"isLoggedIn",
+					"isSubscribed",
+					"/images",
+					"/image",
+					"../images",
+					"services",
+					"'",
+					"\"",
+					"h2",
+					"h3",
+					"\"",
+					"file_type",
+					"current_user.docs",
+					"",
 					"'",
 					"",
 					"thin-font",
@@ -736,6 +939,10 @@
 				"height": 34.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -773,13 +980,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 275.0,
+			"side_bar_width": 170.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 682.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -789,44 +996,440 @@
 				"selected_items":
 				[
 					[
-						"mail",
-						"mail_content"
+						"input",
+						"input_str"
+					],
+					[
+						"get",
+						"getMonth  (function)"
+					],
+					[
+						"payme",
+						"paymentIds"
+					],
+					[
+						"disove",
+						"discoveryUrl"
+					],
+					[
+						"calen",
+						"calenderId"
+					],
+					[
+						"SERVICE_",
+						"SERVICE_ACCOUNT_KEY_FILE  (variable)"
+					],
+					[
+						"red",
+						"render"
+					],
+					[
+						"eve",
+						"events"
+					],
+					[
+						"Top",
+						"TopicsNewView"
+					],
+					[
+						"top",
+						"topics"
+					],
+					[
+						"pa",
+						"params"
+					],
+					[
+						"comm",
+						"comments"
+					],
+					[
+						"un",
+						"unprocessable_entity"
+					],
+					[
+						"comme",
+						"comment_params"
+					],
+					[
+						"commen",
+						"comment"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"share",
+						"shareOnFacebook"
+					],
+					[
+						"sha",
+						"shareOnTwitter"
+					],
+					[
+						"shareO",
+						"shareOnFacebok"
+					],
+					[
+						"shareOn",
+						"shareOnTwitter"
+					],
+					[
+						"fac",
+						"facebook"
+					],
+					[
+						"art",
+						"artist"
+					],
+					[
+						"ar",
+						"artist"
+					],
+					[
+						"artis",
+						"artists"
+					],
+					[
+						"ng-h",
+						"ng-href	AngularJS"
+					],
+					[
+						"ng-show",
+						"ng-show=  (attribute)"
+					],
+					[
+						"re",
+						"resourceUrlWhitelist"
+					],
+					[
+						"is",
+						"isSubscribed"
+					],
+					[
+						"show",
+						"showPlayButton"
+					],
+					[
+						"vd",
+						"video"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"v",
+						"vt"
+					],
+					[
+						"relea",
+						"releaseTime"
+					],
+					[
+						"$lo",
+						"$log	AngularJS"
+					],
+					[
+						"$htt",
+						"$httpProvider"
+					],
+					[
+						"$route",
+						"$routeParams	AngularJS"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"contro",
+						"Controller"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"load",
+						"displayLoading"
+					],
+					[
+						"di",
+						"div	Tag"
+					],
+					[
+						"modal",
+						"modalDialog"
+					],
+					[
+						"mo",
+						"modalDialog"
+					],
+					[
+						"dia",
+						"dialogStyle"
+					],
+					[
+						"a",
+						"attrs"
+					],
+					[
+						"e",
+						"element"
+					],
+					[
+						"$roo",
+						"$rootScope	AngularJS(DI)"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"ng-",
+						"ng-cloak	AngularJS"
+					],
+					[
+						"ng-s",
+						"ng-show	AngularJS"
+					],
+					[
+						"des",
+						"destroyUser  (function)"
+					],
+					[
+						"destr",
+						"destroyUser"
+					],
+					[
+						"set",
+						"setUser"
+					],
+					[
+						"ot",
+						"options"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"su",
+						"successful"
+					],
+					[
+						"suc",
+						"success"
+					],
+					[
+						"rep",
+						"response"
+					],
+					[
+						"$loca",
+						"$location	AngularJS"
+					],
+					[
+						"succe",
+						"successful"
+					],
+					[
+						"lo",
+						"loginResponse"
+					],
+					[
+						"log",
+						"loginrespons  (variable)"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"acce",
+						"access_token"
 					],
 					[
 						"twitter",
-						"twitter-handle"
+						"twitterOAuth"
+					],
+					[
+						"sign",
+						"signupEmail"
+					],
+					[
+						"ng-cl",
+						"ng-click	AngularJS"
+					],
+					[
+						"controll",
+						"controllers"
+					],
+					[
+						"con",
+						"controller	AngularJS"
+					],
+					[
+						"sub",
+						"subscriptionStatus"
+					],
+					[
+						"baa",
+						"background-image:   (property)"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"vide",
+						"video"
+					],
+					[
+						"vid",
+						"video"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"apiU",
+						"apiUrl"
+					],
+					[
+						"$rou",
+						"$routeParams	AngularJS"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"ng-r",
+						"ng-repeat	AngularJS"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"stat",
+						"status  (variable)"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"api",
+						"api_data"
+					],
+					[
+						"UR",
+						"URN"
+					],
+					[
+						"ap",
+						"api_urn"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Conf",
+						"Config"
+					],
+					[
+						"ng-v",
+						"ng-view	AngularJS"
+					],
+					[
+						"$cook",
+						"$cookieStore	AngularJS"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"i",
+						"!important  (value)"
+					],
+					[
+						"ma",
+						"max-width"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"li",
+						"li	Tag"
+					],
+					[
+						"me",
+						"menu_group_class  (variable)"
+					],
+					[
+						"C",
+						"COOKIE"
+					],
+					[
+						"USER_",
+						"USER_TYPE"
+					],
+					[
+						"fa",
+						"fadeIn  (function)"
+					],
+					[
+						"D",
+						"DOM"
+					],
+					[
+						"USER",
+						"USER_NAME"
+					],
+					[
+						"U",
+						"USER_TYPE  (variable)"
+					],
+					[
+						"form",
+						"form_id"
+					],
+					[
+						"inp",
+						"input_api_urn"
+					],
+					[
+						"api_",
+						"api_url"
+					],
+					[
+						"valid",
+						"validates"
+					],
+					[
+						"mail",
+						"mail_content"
 					],
 					[
 						"fo",
 						"font-size"
 					],
 					[
-						"marg",
-						"margin-top"
-					],
-					[
 						"bo",
 						"border-bottom"
-					],
-					[
-						"mar",
-						"margin-right"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"li",
-						"logo-white.png	w:337 h:42"
-					],
-					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"pa",
-						"padding-right"
 					],
 					[
 						"pad",
@@ -835,10 +1438,6 @@
 					[
 						"c",
 						"center"
-					],
-					[
-						"dia",
-						"dialog_content"
 					],
 					[
 						"CO",
@@ -865,20 +1464,12 @@
 						"checkbox-unchecked.png	w:512 h:512"
 					],
 					[
-						"i",
-						"imgs/"
-					],
-					[
 						"bac",
 						"background-image"
 					],
 					[
 						"back",
 						"background-color"
-					],
-					[
-						"re",
-						"removeClass  (function)"
 					],
 					[
 						"fon",
@@ -895,10 +1486,6 @@
 					[
 						"for",
 						"form_submit_button"
-					],
-					[
-						"form",
-						"form_content"
 					],
 					[
 						"ke",
@@ -919,304 +1506,72 @@
 					[
 						"text",
 						"text-decoration"
-					],
-					[
-						"bor",
-						"border-top"
-					],
-					[
-						"co",
-						"console"
-					],
-					[
-						"comm",
-						"comment_box_height"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"commen",
-						"comment_form_id"
-					],
-					[
-						"he",
-						"height  (function)"
-					],
-					[
-						"cl",
-						"click  (function)"
-					],
-					[
-						"red",
-						"redirect_param"
-					],
-					[
-						"get",
-						"getURLParameters"
-					],
-					[
-						"clo",
-						"close_button"
-					],
-					[
-						"to",
-						"toggleDialog"
-					],
-					[
-						"Login",
-						"LoginUsingEmail"
-					],
-					[
-						"_lo",
-						"_loginUsingTwitter"
-					],
-					[
-						"o",
-						"oauth_twitter"
-					],
-					[
-						"lo",
-						"log"
-					],
-					[
-						"tw",
-						"twitter"
-					],
-					[
-						"_",
-						"_loginUsingEmail"
-					],
-					[
-						"t",
-						"type"
-					],
-					[
-						"log",
-						"loginUsingEmail"
-					],
-					[
-						"logi",
-						"LoginUsingEmail"
-					],
-					[
-						"input_api_u",
-						"input_api_url"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"win",
-						"window_height"
-					],
-					[
-						"wind",
-						"window"
-					],
-					[
-						"mr",
-						"margin-bottom"
-					],
-					[
-						"backgr",
-						"background-size"
-					],
-					[
-						"windo",
-						"window_height"
-					],
-					[
-						"parse",
-						"parseInt  (function)"
-					],
-					[
-						"cop",
-						"copyright_left_new"
-					],
-					[
-						"copy",
-						"copyright_bottom"
-					],
-					[
-						"footer",
-						"footer_height"
-					],
-					[
-						"con",
-						"container"
-					],
-					[
-						"hi",
-						"hidden"
-					],
-					[
-						"min",
-						"min-width"
-					],
-					[
-						"background-im",
-						"background-image:   (property)"
-					],
-					[
-						"background-c",
-						"background-color:   (property)"
-					],
-					[
-						"te",
-						"text-align"
-					],
-					[
-						"si",
-						"sign-in-twitter.png	w:169 h:26"
-					],
-					[
-						"background",
-						"background-image"
-					],
-					[
-						"tabl",
-						"table-row"
-					],
-					[
-						"ta",
-						"table"
-					],
-					[
-						"v",
-						"vertical-align"
-					],
-					[
-						"pla",
-						"play_button_z"
-					],
-					[
-						"video",
-						"video_frame"
-					],
-					[
-						"ap",
-						"append"
-					],
-					[
-						"thum",
-						"thumb-placeholder"
-					],
-					[
-						"thu",
-						"thumbnail_details"
-					],
-					[
-						"vide",
-						"video_posts_html"
-					],
-					[
-						"po",
-						"post_html"
-					],
-					[
-						"call",
-						"calling_element"
-					],
-					[
-						"thi",
-						"thisObj"
-					],
-					[
-						"if",
-						"if	if"
-					],
-					[
-						"ret",
-						"return"
-					],
-					[
-						"prot",
-						"prototype  (variable)"
-					],
-					[
-						"func",
-						"function"
-					],
-					[
-						"err",
-						"err_msg"
-					],
-					[
-						"api",
-						"api_urn"
-					],
-					[
-						"API",
-						"API_URN"
-					],
-					[
-						"curso",
-						"cursor:   (property)"
-					],
-					[
-						"di",
-						"div	Tag"
-					],
-					[
-						"styl",
-						"style=  (attribute)"
-					],
-					[
-						"table-",
-						"table-row"
-					],
-					[
-						"table",
-						"table-caption"
-					],
-					[
-						"tal",
-						"table-row"
-					],
-					[
-						"tex",
-						"text-align"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/mrdhat/opt/Dropbox/Shared with Akshay/adminpanel/cookies.js",
+					"file": "/home/mrdhat/opt/Weavedin/Q2-dash_display.py",
 					"settings":
 					{
-						"buffer_size": 1879,
-						"line_ending": "Windows"
+						"buffer_size": 455,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Weavedin/Q4-fountain.py",
+					"settings":
+					{
+						"buffer_size": 1068,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/mojojojo/web.js",
+					"settings":
+					{
+						"buffer_size": 1389,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Weavedin/Q3-share_apple.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Weavedin/itunes-scrape/index.html",
+					"settings":
+					{
+						"buffer_size": 1287,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Weavedin/itunes-scrape/js/script.js",
+					"settings":
+					{
+						"buffer_size": 102,
+						"line_ending": "Unix"
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 309.0,
 				"selected_items":
 				[
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
 						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -1224,11 +1579,15 @@
 						"Package Control: Install Package"
 					],
 					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
 						"git",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 588.0
+				"width": 357.0
 			},
 			"console":
 			{
@@ -1249,102 +1608,134 @@
 			},
 			"file_history":
 			[
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/js/common/config.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/x_single-video_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/x_single-video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/x_artist_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/x_artist.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/signup.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/signup-email.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/index.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/js/intro.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/js/common/globals.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/Production/www/js/common/globals.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/Production/www/js/intro.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2/_Source Code/js/config.js",
+				"/home/mrdhat/opt/mojojojo/files/key.pem",
+				"/home/mrdhat/opt/mojojojo/node_modules/googleapis/lib/googleapis.js",
+				"/home/mrdhat/opt/mojojojo/lib/gCalendar.js",
+				"/home/mrdhat/opt/mojojojo/web.js",
+				"/home/mrdhat/opt/mojojojo/node_modules/googleapis/lib/auth/oauth2client.js",
+				"/home/mrdhat/opt/mojojojo/package.json",
+				"/home/mrdhat/opt/mojojojo/lib/auth.js",
+				"/home/mrdhat/opt/AskPort/config/application.rb",
+				"/home/mrdhat/opt/AskPort/config/environments/development.rb",
+				"/home/mrdhat/opt/AskPort/Gemfile",
+				"/home/mrdhat/opt/AskPort/config/routes.rb",
+				"/home/mrdhat/opt/AskSomething/config/application.rb",
+				"/home/mrdhat/opt/AskSomething/config/mongoid.yml",
+				"/home/mrdhat/opt/AskSomething/app/views/topics/index.html.erb",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/index.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/controllers/topics_controller.rb",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/show.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/show_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/edit.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/edit_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/new.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/new_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/templates/topics/topic.jst.ejs",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/topic_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/views/topics/index_view.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/routers/topics_router.js.coffee",
+				"/home/mrdhat/opt/AskSomething/config/environments/development.rb",
+				"/home/mrdhat/opt/AskSomething/Gemfile",
+				"/home/mrdhat/opt/AskSomething/app/assets/javascripts/backbone/models/topic.js.coffee",
+				"/home/mrdhat/opt/AskSomething/app/views/layouts/application.html.erb",
+				"/home/mrdhat/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+				"/home/mrdhat/opt/AskSomething/sh",
+				"/home/mrdhat/opt/AskSomething/app/controllers/comments_controller.rb",
+				"/home/mrdhat/opt/AskSomething/app/models/comment.rb",
+				"/home/mrdhat/opt/AskSomething/app/models/topic.rb",
+				"/home/mrdhat/opt/AskSomething/config/routes.rb",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/video.js",
 				"/home/mrdhat/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/index.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/js/common/config.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/signup-email.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/signup.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_artist.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_artist_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single-video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single-video_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single_video_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/x_single_video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/style-intro.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/style.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/js/common/server_api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/#website-unused/Intro v1/intro-v1.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/#website-unused/Intro v1/style-intro-v1.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/Production/www/style.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/_Source Code/intro.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/config.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/user.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/index.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/style.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/globals.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/artist.js",
+				"/home/mrdhat/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/artist.js",
 				"/home/mrdhat/opt/Dropbox/Shared with Akshay/API Usage.txt",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_artist.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/style-intro.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/intro-v1.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/style-intro-v1.css",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/intro.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/#not in use#/dialog-box.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_faq.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/config.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/intro.html",
-				"/home/mrdhat/Downloads/35-share-buttons/35-share-buttons/css/style.css",
-				"/home/mrdhat/Downloads/35-share-buttons/35-share-buttons/index.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/lib/jquery.autoresize.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/Social Share API.txt",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/oauth-facebook-js.htm",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/social_login.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/login.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/main.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/signup-email.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/single-video.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/media.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/artist.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_single-video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_artist_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/signup.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/signup-email.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/single_video.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/signup_email.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/single_video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_single_video.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/x_single_video_state-no-login.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/common/server_api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/unused stuff/full_height.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/index-new.html",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/server_api.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/artist.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/media.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/globals.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/text",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/functions.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/helpers/user.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/api_calls.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/js/server_api.js",
-				"/home/mrdhat/opt/TweetSecret/media.js",
-				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website/untitled",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_single_video.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/functions.js",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/style.css",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_artist_state-no-login.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_about.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_artist.html",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/artist.php",
-				"/home/mrdhat/opt/DropBox/Shared with Akshay/ts-website/x_sample-video.mp4",
-				"/media/mrdhat/B6F3-070B/Backup/opt/public_html/info.php",
-				"/opt/sublime_text/changelog.txt"
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/web_views/view_index.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/auth.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/social.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/logout.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/video.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/subscriptions.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/app.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/logout.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/signup.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/main.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/login.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/artist.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/index.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/share.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/artist.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/media.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/subscriptions.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/video.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/subscriptions.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/Output Code.txt",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/specific/media.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/intro.html",
+				"/home/mrdhat/Downloads/website-master/_misc/www/test_dita_videos_list.html",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/intro.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/fb.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/api-test/oauth-facebook-js.htm",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/api-test/login.htm",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/styles/main.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/404.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/directives/modalDialog.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/modalDialog.html",
+				"/home/mrdhat/Downloads/website-master/_static/www/x_single-video.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/gif-load",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/globals.js",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/login.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/main.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/README.md",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/terms.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/privacy.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/about.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/faq.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/signup.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/auth.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/vendor/angular/angular-cookie.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/.jshintrc",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/signup.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/login.js",
+				"/home/mrdhat/API Usage.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/vendor/angular/angular-cookies.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/API Outpot json.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/test.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/factories/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/main.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/services/api.js",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/api.js",
+				"/home/mrdhat/tmp/app/styles/main.css",
+				"/home/mrdhat/Downloads/website-master/_static/www/x_artist.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/main.html",
+				"/home/mrdhat/tmp/app/scripts/app.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/Production/www/style.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/git-hooks/README.md",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/git-hooks/pre-commit.sh",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/.editorconfig",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/alsksa.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/www/artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/www/video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/js_artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/js_single_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/x_artist_state-no-login.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/js/artist.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/note.txt",
+				"/home/mrdhat/Downloads/AdminPanel-legacy/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/controllers/user.js"
 			],
 			"find":
 			{
@@ -1356,6 +1747,10 @@
 				"where_history":
 				[
 					"",
+					"AksSomething/app",
+					"",
+					"TweetSecret/website/www",
+					"",
 					"*.html",
 					""
 				]
@@ -1365,6 +1760,97 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Post",
+					"calender",
+					"gapi",
+					"\"",
+					"Blog",
+					"post",
+					"Blog",
+					"post",
+					"load",
+					"post",
+					"shareFacebook",
+					"shareOnFacebok",
+					"comment",
+					".replace",
+					".replace()",
+					"log",
+					"logout",
+					"subscrip",
+					"nh-hide",
+					"nh-hode",
+					"ng-hide",
+					"ng-show",
+					"ng-hide",
+					"ng-show",
+					"showVi",
+					"showVideo",
+					"id",
+					"ng-",
+					"ras",
+					"rele",
+					"});\n",
+					".logo-te",
+					".logo",
+					".logo-text",
+					">\n",
+					"#footer",
+					"fonts",
+					"imgs",
+					"loginStatus",
+					"subscriptionStatus",
+					"response.ss",
+					".footer",
+					"#page .footer",
+					"footer",
+					"POST",
+					"register",
+					"id",
+					"Api.post",
+					"register'",
+					"register",
+					"regis",
+					"login",
+					"user",
+					"config",
+					"Api.request",
+					"/image",
+					"../images",
+					"./",
+					"imgs",
+					"factories",
+					"services",
+					"name",
+					"intro-logo",
+					"btn",
+					"todoSt",
+					"data",
+					"color",
+					"*/\n",
+					"font",
+					"body",
+					"logo",
+					"{\n",
+					"  \n",
+					"\"",
+					"USER_NAME",
+					"setLo",
+					"\"",
+					"'",
+					"},\n",
+					"br/",
+					"h3",
+					"@",
+					"h2",
+					"'",
+					"mai",
+					"mail",
+					"mailto",
+					"founda",
+					"type",
+					"Doc",
+					"gem 'devise', '~> 3.0.0.rc'",
 					".replace('\\\"', '\"')",
 					"strip",
 					"\"",
@@ -1401,98 +1887,7 @@
 					"#dialog .inner",
 					".inner",
 					".ineer",
-					".neer",
-					"!import",
-					"input",
-					".social",
-					"#page .con",
-					"#dialog-wrapper.content",
-					".content",
-					"#dialog2",
-					"400px",
-					".red",
-					".inner",
-					".con",
-					"5",
-					"*/\n",
-					"socia",
-					".facebook",
-					".social-wrap",
-					"comment",
-					".",
-					"Active",
-					"close-",
-					".faceb",
-					"red ",
-					"red",
-					".dialog",
-					".twitter",
-					".btn",
-					"social",
-					".btn",
-					"count",
-					"display: inline",
-					"social_login.js",
-					"icons",
-					"<input",
-					".txtbox",
-					".txt",
-					"comment_box_height",
-					"translate_tabs_to_spaces",
-					"true",
-					"Config",
-					"LoginUsingEmail",
-					"API.request",
-					"gradient",
-					"Config",
-					"play-button",
-					"video-frame",
-					"content",
-					"class=\"content\"",
-					"posts",
-					"LoginUsingEmail",
-					"RegisterUsingEmail",
-					"API.request",
-					"server_api.js",
-					"helpers",
-					"Config",
-					"url_identifier",
-					"Config",
-					"html_identifier",
-					"play_button",
-					"posts",
-					"video_player_house",
-					"video_",
-					"intro",
-					".intro",
-					"height",
-					"intro-test",
-					".intro-test",
-					"font-size",
-					"font-s",
-					"-webkit",
-					"app-",
-					"apple",
-					"app",
-					".margin",
-					"footer",
-					".main-",
-					"!important",
-					"!impro",
-					"height",
-					"intro1",
-					".get",
-					"social",
-					"margin-bottom",
-					".intro1",
-					"html",
-					".container",
-					"z-index",
-					"inline",
-					"login",
-					".intro1",
-					"badge",
-					".intro"
+					".neer"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1500,6 +1895,23 @@
 				"regex": false,
 				"replace_history":
 				[
+					"calendar",
+					"'",
+					"topic",
+					"/images",
+					"isLoggedIn",
+					"isSubscribed",
+					"/images",
+					"/image",
+					"../images",
+					"services",
+					"'",
+					"\"",
+					"h2",
+					"h3",
+					"\"",
+					"file_type",
+					"current_user.docs",
 					"",
 					"'",
 					"",
@@ -1534,30 +1946,58 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/home/mrdhat/opt/Dropbox/Shared with Akshay"
+					"path": "/home/mrdhat/opt/AskSomething"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/FileBacon"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/yarb"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/AskPort"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/mojojojo"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/Downloads/rails-backbone-tutorial-master"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/Weavedin"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/random.py"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/mrdhat/opt/Dropbox/Shared with Akshay/adminpanel/cookies.js",
+							"file": "/home/mrdhat/opt/Weavedin/Q2-dash_display.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1879,
+								"buffer_size": 455,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										189,
-										189
+										441,
+										441
 									]
 								],
 								"settings":
@@ -1569,42 +2009,42 @@
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
-										"bh_single_quote_close"
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
 									],
 									"codeintel": true,
 									"codeintel_config":
@@ -1709,17 +2149,821 @@
 										"Python Django": "Python"
 									},
 									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
 									"sublime_auto_complete": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/mrdhat/opt/Weavedin/Q4-fountain.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1068,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										383,
+										383
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true,
 									"word_wrap": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/mrdhat/opt/mojojojo/web.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1389,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/mrdhat/opt/Weavedin/Q3-share_apple.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/mrdhat/opt/Weavedin/itunes-scrape/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1287,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										517,
+										517
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/mrdhat/opt/Weavedin/itunes-scrape/js/script.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 102,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										88,
+										88
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -1756,11 +3000,15 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,682,27,1364,735,1366,768",
+			"position": "0,1,0,0,0,0,0,0,0,3286,1080",
 			"project": "",
 			"replace":
 			{
@@ -1798,12 +3046,3433 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 275.0,
+			"side_bar_width": 170.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 2,
+			"window_id": 16,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"share",
+						"shareOnFacebook"
+					],
+					[
+						"sha",
+						"shareOnTwitter"
+					],
+					[
+						"shareO",
+						"shareOnFacebok"
+					],
+					[
+						"shareOn",
+						"shareOnTwitter"
+					],
+					[
+						"fac",
+						"facebook"
+					],
+					[
+						"art",
+						"artist"
+					],
+					[
+						"ar",
+						"artist"
+					],
+					[
+						"artis",
+						"artists"
+					],
+					[
+						"get",
+						"getSubscriptions"
+					],
+					[
+						"ng-h",
+						"ng-href	AngularJS"
+					],
+					[
+						"ng-show",
+						"ng-show=  (attribute)"
+					],
+					[
+						"re",
+						"resourceUrlWhitelist"
+					],
+					[
+						"is",
+						"isSubscribed"
+					],
+					[
+						"show",
+						"showPlayButton"
+					],
+					[
+						"vd",
+						"video"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"v",
+						"vt"
+					],
+					[
+						"relea",
+						"releaseTime"
+					],
+					[
+						"$lo",
+						"$log	AngularJS"
+					],
+					[
+						"$htt",
+						"$httpProvider"
+					],
+					[
+						"$route",
+						"$routeParams	AngularJS"
+					],
+					[
+						"func",
+						"function"
+					],
+					[
+						"contro",
+						"Controller"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"load",
+						"displayLoading"
+					],
+					[
+						"di",
+						"div	Tag"
+					],
+					[
+						"modal",
+						"modalDialog"
+					],
+					[
+						"mo",
+						"modalDialog"
+					],
+					[
+						"dia",
+						"dialogStyle"
+					],
+					[
+						"a",
+						"attrs"
+					],
+					[
+						"e",
+						"element"
+					],
+					[
+						"$roo",
+						"$rootScope	AngularJS(DI)"
+					],
+					[
+						"$root",
+						"$rootScope	AngularJS"
+					],
+					[
+						"ng-",
+						"ng-cloak	AngularJS"
+					],
+					[
+						"ng-s",
+						"ng-show	AngularJS"
+					],
+					[
+						"des",
+						"destroyUser  (function)"
+					],
+					[
+						"destr",
+						"destroyUser"
+					],
+					[
+						"set",
+						"setUser"
+					],
+					[
+						"ot",
+						"options"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"su",
+						"successful"
+					],
+					[
+						"red",
+						"redirectUser"
+					],
+					[
+						"suc",
+						"success"
+					],
+					[
+						"rep",
+						"response"
+					],
+					[
+						"$loca",
+						"$location	AngularJS"
+					],
+					[
+						"succe",
+						"successful"
+					],
+					[
+						"lo",
+						"loginResponse"
+					],
+					[
+						"log",
+						"loginrespons  (variable)"
+					],
+					[
+						"em",
+						"email"
+					],
+					[
+						"acce",
+						"access_token"
+					],
+					[
+						"twitter",
+						"twitterOAuth"
+					],
+					[
+						"sign",
+						"signupEmail"
+					],
+					[
+						"ng-cl",
+						"ng-click	AngularJS"
+					],
+					[
+						"controll",
+						"controllers"
+					],
+					[
+						"con",
+						"controller	AngularJS"
+					],
+					[
+						"sub",
+						"subscriptionStatus"
+					],
+					[
+						"baa",
+						"background-image:   (property)"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"vide",
+						"video"
+					],
+					[
+						"vid",
+						"video"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"apiU",
+						"apiUrl"
+					],
+					[
+						"$rou",
+						"$routeParams	AngularJS"
+					],
+					[
+						"user",
+						"userID"
+					],
+					[
+						"ng-r",
+						"ng-repeat	AngularJS"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"stat",
+						"status  (variable)"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"api",
+						"api_data"
+					],
+					[
+						"UR",
+						"URN"
+					],
+					[
+						"ap",
+						"api_urn"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Conf",
+						"Config"
+					],
+					[
+						"ng-v",
+						"ng-view	AngularJS"
+					],
+					[
+						"$cook",
+						"$cookieStore	AngularJS"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"i",
+						"!important  (value)"
+					],
+					[
+						"ma",
+						"max-width"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"li",
+						"li	Tag"
+					],
+					[
+						"me",
+						"menu_group_class  (variable)"
+					],
+					[
+						"C",
+						"COOKIE"
+					],
+					[
+						"USER_",
+						"USER_TYPE"
+					],
+					[
+						"fa",
+						"fadeIn  (function)"
+					],
+					[
+						"pa",
+						"page_message_id  (variable)"
+					],
+					[
+						"D",
+						"DOM"
+					],
+					[
+						"USER",
+						"USER_NAME"
+					],
+					[
+						"U",
+						"USER_TYPE  (variable)"
+					],
+					[
+						"form",
+						"form_id"
+					],
+					[
+						"inp",
+						"input_api_urn"
+					],
+					[
+						"api_",
+						"api_url"
+					],
+					[
+						"valid",
+						"validates"
+					],
+					[
+						"mail",
+						"mail_content"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"bo",
+						"border-bottom"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"CO",
+						"Config"
+					],
+					[
+						"dial",
+						"dialog_html"
+					],
+					[
+						"webkit-box-s",
+						"-webkit-box-sizing:   (property)"
+					],
+					[
+						"button",
+						"button_container"
+					],
+					[
+						"add",
+						"additional_button"
+					],
+					[
+						"ch",
+						"checkbox-unchecked.png	w:512 h:512"
+					],
+					[
+						"bac",
+						"background-image"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"bu",
+						"button_container"
+					],
+					[
+						"for",
+						"form_submit_button"
+					],
+					[
+						"ke",
+						"keyup  (function)"
+					],
+					[
+						"close",
+						"closeDialog"
+					],
+					[
+						"clos",
+						"close_button"
+					],
+					[
+						"k",
+						"key"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"bor",
+						"border-top"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"comm",
+						"comment_box_height"
+					],
+					[
+						"commen",
+						"comment_form_id"
+					],
+					[
+						"he",
+						"height  (function)"
+					],
+					[
+						"cl",
+						"click  (function)"
+					],
+					[
+						"clo",
+						"close_button"
+					],
+					[
+						"to",
+						"toggleDialog"
+					],
+					[
+						"Login",
+						"LoginUsingEmail"
+					],
+					[
+						"_lo",
+						"_loginUsingTwitter"
+					],
+					[
+						"o",
+						"oauth_twitter"
+					],
+					[
+						"tw",
+						"twitter"
+					],
+					[
+						"_",
+						"_loginUsingEmail"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/login.js",
+					"settings":
+					{
+						"buffer_size": 2445,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/subscriptions.js",
+					"settings":
+					{
+						"buffer_size": 2030,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/video.js",
+					"settings":
+					{
+						"buffer_size": 2962,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/styles/main.css",
+					"settings":
+					{
+						"buffer_size": 63550,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/artist.js",
+					"settings":
+					{
+						"buffer_size": 5770,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/signup.js",
+					"settings":
+					{
+						"buffer_size": 2464,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 0 files for \".replace()\"\n\n0 matches across 0 files\n",
+					"settings":
+					{
+						"buffer_size": 61,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 2898,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/views/artist.html",
+					"settings":
+					{
+						"buffer_size": 3869,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/social.js",
+					"settings":
+					{
+						"buffer_size": 1056,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/index.html",
+					"settings":
+					{
+						"buffer_size": 3302,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/api.js",
+					"settings":
+					{
+						"buffer_size": 6408,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/web_views/view_index.php",
+					"settings":
+					{
+						"buffer_size": 1860,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/config.js",
+					"settings":
+					{
+						"buffer_size": 1175,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 453.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/video.js",
+				"/home/mrdhat/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/mrdhat/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/artist.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/API Usage.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/web_views/view_index.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/auth.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/social.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/logout.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/video.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/subscriptions.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/app.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/logout.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/signup.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/main.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/login.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/controllers/artist.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/index.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/share.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/artist.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/media.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/subscriptions.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/video.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/subscriptions.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/Output Code.txt",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/specific/media.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/intro.html",
+				"/home/mrdhat/Downloads/website-master/_misc/www/test_dita_videos_list.html",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/intro.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/fb.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/api-test/oauth-facebook-js.htm",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/api-test/login.htm",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/styles/main.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/404.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/directives/modalDialog.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/modalDialog.html",
+				"/home/mrdhat/Downloads/website-master/_static/www/x_single-video.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/gif-load",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/globals.js",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/login.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/main.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/README.md",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/terms.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/privacy.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/about.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/faq.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/signup.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/auth.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/vendor/angular/angular-cookie.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/.jshintrc",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/signup.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/services/login.js",
+				"/home/mrdhat/API Usage.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/vendor/angular/angular-cookies.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/API Outpot json.txt",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/test.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/scripts/factories/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/views/main.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/services/api.js",
+				"/home/mrdhat/Downloads/website-master/_static/www/js/common/api.js",
+				"/home/mrdhat/tmp/app/styles/main.css",
+				"/home/mrdhat/Downloads/website-master/_static/www/x_artist.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/www/main.html",
+				"/home/mrdhat/tmp/app/scripts/app.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/Production/www/style.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/git-hooks/README.md",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/git-hooks/pre-commit.sh",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/.editorconfig",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/alsksa.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/www/artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/www/video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_artist_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_video_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/js_artist.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/js_single_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/x_artist_state-no-login.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/js/artist.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video_subscribed.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/content_single_video_loggedin.php",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_source/web_pages/note.txt",
+				"/home/mrdhat/Downloads/AdminPanel-legacy/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/controllers/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/services/auth.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/services/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/main.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/directives/tsLogin.js",
+				"/home/mrdhat/Downloads/AdminPanel-legacy/js/common/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/app.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/styles/main.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/index.html",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/hp-check.log",
+				"/home/mrdhat/Downloads/AdminPanel-legacy/cookies.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/style.css",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/lib/jquery.min.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/lib/angular-route.min.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/lib/angular-resource.min.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/lib/angular-cookies.min.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/scripts/require.min.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/js/lib/angular.min.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/README.md",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/js/admin.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/js/common/api.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/js/common/globals.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/js/common/config.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/js/intro.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/js/login.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/website/_static/www/js/single-video.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/functions.js",
+				"/home/mrdhat/opt/Dropbox/TweetSecret/AdminPanel/js/lib/cookies.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/adminpanel/js/lib/cookies.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/adminpanel/js/common/user.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/adminpanel/js/common/globals.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/adminpanel/js/common/api.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/adminpanel/js/common/config.js",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2.1/_static/www/x_faq.html",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2.1/_static/www/x_privacy.html",
+				"/home/mrdhat/opt/Dropbox/Shared with Akshay/ts-website_v2.1/_source/web_pages/content_privacy.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"TweetSecret/website/www",
+					"",
+					"*.html",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"shareFacebook",
+					"shareOnFacebok",
+					"comment",
+					".replace",
+					".replace()",
+					"log",
+					"logout",
+					"subscrip",
+					"nh-hide",
+					"nh-hode",
+					"ng-hide",
+					"ng-show",
+					"ng-hide",
+					"ng-show",
+					"showVi",
+					"showVideo",
+					"id",
+					"ng-",
+					"ras",
+					"rele",
+					"});\n",
+					".logo-te",
+					".logo",
+					".logo-text",
+					">\n",
+					"#footer",
+					"fonts",
+					"imgs",
+					"loginStatus",
+					"subscriptionStatus",
+					"response.ss",
+					".footer",
+					"#page .footer",
+					"footer",
+					"POST",
+					"register",
+					"id",
+					"Api.post",
+					"register'",
+					"register",
+					"regis",
+					"login",
+					"user",
+					"config",
+					"Api.request",
+					"/image",
+					"../images",
+					"./",
+					"imgs",
+					"factories",
+					"services",
+					"name",
+					"intro-logo",
+					"btn",
+					"todoSt",
+					"data",
+					"color",
+					"*/\n",
+					"font",
+					"body",
+					"logo",
+					"{\n",
+					"  \n",
+					"\"",
+					"USER_NAME",
+					"setLo",
+					"\"",
+					"'",
+					"},\n",
+					"br/",
+					"h3",
+					"@",
+					"h2",
+					"'",
+					"mai",
+					"mail",
+					"mailto",
+					"founda",
+					"type",
+					"Doc",
+					"gem 'devise', '~> 3.0.0.rc'",
+					".replace('\\\"', '\"')",
+					"strip",
+					"\"",
+					"from",
+					"\"",
+					"apple",
+					"close",
+					"intro-lo",
+					"http://cdn.tweetsecret.com/",
+					"cdn.tweet",
+					"x.gif",
+					"http://cdn.tweetsecret.com/",
+					"cdn",
+					"#di",
+					"@font",
+					"@ont",
+					"Aliquam",
+					"normal",
+					"dialog",
+					"close",
+					"3px",
+					".intro",
+					"poster",
+					"logo",
+					".logo",
+					"poster",
+					"#intro",
+					".social",
+					".facebook",
+					".facabook",
+					"down",
+					"replace",
+					", ",
+					"#dialog .inner",
+					".inner",
+					".ineer",
+					".neer",
+					"!import",
+					"input",
+					".social",
+					"#page .con",
+					"#dialog-wrapper.content",
+					".content",
+					"#dialog2",
+					"400px",
+					".red",
+					".inner"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"/images",
+					"isLoggedIn",
+					"isSubscribed",
+					"/images",
+					"/image",
+					"../images",
+					"services",
+					"'",
+					"\"",
+					"h2",
+					"h3",
+					"\"",
+					"file_type",
+					"current_user.docs",
+					"",
+					"'",
+					"",
+					"thin-font",
+					"#dialog-wrapper",
+					"common",
+					"API",
+					"DOM",
+					"intro-new",
+					".intro-new",
+					"intro",
+					".intro",
+					"intro-test",
+					"TS.artist",
+					"TS.user",
+					"'",
+					"calling_element",
+					"Config",
+					"config",
+					"Artist",
+					"User",
+					"config",
+					"\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/Dropbox/TweetSecret"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/Downloads/AdminPanel-legacy"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/tmp"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/Downloads/website-master"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/mrdhat/opt/Dropbox/Shared with Akshay"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/login.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										814,
+										814
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 102.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/subscriptions.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2030,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 357.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/video.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2962,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1786,
+										1786
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 666.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/styles/main.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 63550,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										58082,
+										58082
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 32158.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/artist.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5770,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1567,
+										1567
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 224.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/controllers/signup.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2464,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										615,
+										615
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 71.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 61,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2898,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2137,
+										2139
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 306.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 8,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/views/artist.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3869,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3252,
+										3252
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 323.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/social.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1056,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1046,
+										1046
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 153.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3302,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1972,
+										1972
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 357.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/api.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6408,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2473,
+										2473
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 805.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/web_views/view_index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1860,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										657,
+										657
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/mrdhat/opt/Dropbox/TweetSecret/website/_Website/www/scripts/services/config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										287,
+										287
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.465336188871,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,3286,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 228.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 9,
 			"workspace_name": ""
 		}
 	],
