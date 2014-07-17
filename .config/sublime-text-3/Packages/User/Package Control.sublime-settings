@@ -3,6 +3,7 @@
 	[
 		"3024 Color Scheme",
 		"Alignment",
+		"All Autocomplete",
 		"AngularJS",
 		"AngularJS Snippets",
 		"AutoFileName",
@@ -20,15 +21,19 @@
 		"ERB Autocomplete",
 		"Git",
 		"GitGutter",
+		"Github Tools",
 		"LiveReload",
 		"Sass",
 		"SideBarEnhancements",
+		"SideBarFolders",
+		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-gjslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeREPL",
+		"SyncedSideBar",
 		"Theme - Phoenix"
 	]
 }

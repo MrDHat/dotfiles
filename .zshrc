@@ -40,12 +40,17 @@ ZSH_THEME="crunch"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(rails git mercurial battery bower django github node npm virtualenv)
+plugins=(virtualenv git mercurial battery bower django github node npm)
 
 source $ZSH/oh-my-zsh.sh
 
-PATH=$HOME/.local/bin:$PATH:/home/mrdhat:/home/mrdhat/Apps/bin:/home/mrdhat/node/bin
-
+PATH=$HOME/.local/bin:$PATH:/home/mrdhat/Apps/node/bin
+export GOROOT=$HOME/Apps/go
+export PATH=$PATH:$GOROOT/bin
 # Customize to your needs...
 source /home/mrdhat/.rvm/scripts/rvm
 export PATH=$PATH:$HOME/.rvm/bin:/home/mrdhat/.rvm/gems/ruby-2.0.0-p353/bin:/home/mrdhat/.rvm/gems/ruby-2.0.0-p353@global/bin:/home/mrdhat/.rvm/gems/ruby-2.1.0/bin # Add RVM to PATH for scripting
+
+export PATH=$PATH:/home/mrdhat/Apps/arduino:/home/mrdhat/Apps/pycharm/bin:/home/mrdhat/Apps/Popcorn-Time
+
+export GOPATH=$HOME/go

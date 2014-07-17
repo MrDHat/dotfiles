@@ -1,0 +1,45 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/templates/hackathon/pagelets"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/templates/hackathon"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/templates/emails/hackathon"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/templates"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/static_media/hackathon"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/apps/invite_friends"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/apps/hackathon"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack/apps/emails"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/webapps/django/mycareerstack"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/mrdhat/opt/Qatar"
+		}
+	]
+}

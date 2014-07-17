@@ -1,31 +1,9 @@
 {
-	"licensed": false,
-	"packages":
-	[
-		"3024 Color Scheme",
-		"Alignment",
-		"AngularJS Snippets",
-		"AngularJS",
-		"AutoFileName",
-		"Backbone.js",
-		"Better CoffeeScript",
-		"BracketHighlighter",
-		"Clipboard Manager",
-		"CoffeeComplete Plus (Autocompletion)",
-		"ColorPicker",
-		"Dayle Rees Color Schemes",
-		"DocBlockr",
-		"EJS",
-		"ERB Autocomplete",
-		"EditorConfig",
-		"Git",
-		"GitGutter",
-		"LiveReload",
-		"Package Control",
-		"Sass",
-		"SideBarEnhancements",
-		"Theme - Phoenix"
-	],
-	"startup_sec": 9.114367,
-	"time": 1394439423
+	"syntax":
+	{
+		"HTML": 61,
+		"JavaScript": 3,
+		"Stylus": 35
+	},
+	"time": 1405509492
 }
